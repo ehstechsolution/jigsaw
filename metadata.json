@@ -1,0 +1,8 @@
+{
+  "name": "Réplica de Post do Facebook",
+  "description": "Uma réplica de alta fidelidade e pixel-perfect de um post do Facebook anunciando uma mudança de endereço.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
